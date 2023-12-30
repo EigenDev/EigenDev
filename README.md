@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eigendev" alt="eigendev" /></a> </p>
 
-- 🔭 I’m currently working on **simbi**
+- 🔭 I’m currently working on **[simbi](https://github.com/EigenDev/simbi)**
 
-- 💬 Ask me about **physics, heterogenous programming, food**
+- 💬 Ask me about **physics, heterogenous programming, Magic: the Gathering**
 
 - 📫 How to reach me **marcus.dupont@nyu.edu**
 
