@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcus DuPont</h1>
 <h3 align="center">A physicist specializing in high-energy astrophysics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eigendev&label=Profile%20views&color=0e75b6&style=flat" alt="eigendev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eigendev" alt="eigendev" /></a> </p>
-
 - 🔭 I’m currently working on **[simbi](https://github.com/EigenDev/simbi)**
 
 - 💬 Ask me about **physics, heterogenous programming, Magic: the Gathering**
