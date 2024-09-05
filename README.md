@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **physics, heterogenous programming, Magic: the Gathering**
 
-- 📫 How to reach me **marcus.dupont@nyu.edu**
+- 📫 How to reach me **marcus.dupont@princeton.edu**
 
 - 📄 Know about my experiences [my CV](https://eigendev.github.io/assets/docs/dupont_biosketch.pdf)
 
