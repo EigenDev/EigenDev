@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[simbi](https://github.com/EigenDev/simbi)**
 
-- 💬 Ask me about **physics, heterogenous programming, Magic: the Gathering**
+- 💬 Ask me about **physics, heterogeneous programming, Magic: the Gathering**
 
 - 📫 How to reach me **marcus.dupont@princeton.edu**
 
