@@ -22,7 +22,7 @@
 
 Most of my work lives in **[simbi](https://github.com/EigenDev/simbi)**: astrophysical fluid and magnetofluid simulations, from accretion flows to relativistic dynamics.
 
-These days, I'm spending a lot of time in **Rust**, working on how the same physics can run reliably across tiles, processes, and eventually CPU/GPU clusters. That means thinking about numerical methods, memory layouts, and distributed systems. It's been a fun challenge spinning things up in Rust. I like Rust a lot, and it has forced me to grow as a computational scientists. I recommend learning it if you're a gear head! 
+These days, I'm spending a lot of time in **Rust**, working on how the same physics can run reliably across tiles, processes, and eventually CPU/GPU clusters. That means thinking about numerical methods, memory layouts, and distributed systems. It's been a fun challenge spinning things up in Rust. I like Rust a lot, and it has forced me to grow as a computational scientist. I recommend learning it if you're a gear head! 
 
 A few questions keeping me busy:
 
