@@ -52,9 +52,9 @@ Ask me about **physics, heterogeneous programming, or Magic: the Gathering**. I 
 <details>
   <summary>A little GitHub bookkeeping</summary>
   <br />
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=eigendev&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent" alt="Marcus's GitHub activity statistics" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eigendev&amp;layout=compact&amp;hide_border=true&amp;theme=transparent" alt="Languages used across Marcus's public repositories" />
-  </p>
+<p align="center">
+  <a href="https://github.com/EigenDev?tab=repositories">Explore my repositories</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/EigenDev/simbi">Follow simbi</a>
+</p>
 </details>
